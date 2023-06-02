@@ -1,0 +1,16 @@
+CSE 1202 (Data Structure Lab) 
+Module 8 [Binary Search Tree]: (for Week 12) 
+Topic 1: [Create BST] 
+i) Draw flowcharts to insert, search and delete a node in BST. 
+ii) Insert the nodes in the sequence 70, 35, 97, 88, 44, 32, 90, 15, 30, 60 
+iii) Display left-link (ll) address, data and right-link address for all the nodes 
+iv) Search nodes=32, 78, 90, 70 and 25. Display the number of searches required (depth) 
+v) Delete i) leaf node ii) node with only one child and iii) node with two child 
+vi) Write a menu program to do the above 
+***** Menu******* 
+1. Insert 
+2. Search 
+3. Delete 
+4. Display 
+5. Exit 
+Enter your option:

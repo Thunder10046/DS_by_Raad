@@ -1,0 +1,19 @@
+CSE 1202 (Data Structure Lab) 
+Module 5 [Stacks]: (for Week 6) 
+Topic 1: [Stack Operations] 
+i) Draw flowcharts for i) PUSH() and ii) POP() operations of a stack using array. 
+ii) Fill up the Table-1 during execution 
+iii) Write a Menu program using C++ to implement Stack operations and make it as 
+user-friendly as possible. 
+Topic 2: [Stack Operations]
+Problem Statement: Repeat Topic-1 by implementing Linked list instead of array. 
+Topic 3: [Polish Notation]
+Problem Statement: 
+i) Draw the flowchart to convert infix expression to postfix expression.
+ii) Fill up the following table (Ref. lecture slides)
+iii) Write a C++ program that accepts postfix expression and outputs its value.
+Topic 4: [Polish Notation]
+Problem Statement: 
+i) Draw the flowchart for calculating the value of the postfix expression.
+ii) Show the push and pop values of the stack in each iteration.
+iii) Write a C++ program that accepts postfix expression and outputs its value.

@@ -1,0 +1,32 @@
+CSE 1204 (Data Structure Lab) 
+Module 3: (for Week 3) 
+Topic 1: [ Linear Search] 
+i) Draw a flowchart to search an element in array ax[] using sequential search. 
+ii) Write a c++ program using class and object for the above algorithm. 
+iii) Create a table with the runtime values of the different variables and logical 
+expression of the above C++ program. 
+iv) Calculate the complexity of the algorithm. 
+ 
+Topic 2: [ Binary Search] 
+i) Draw a flowchart to search an element in array ax[] using binary search. 
+ii) Write a c++ program using class and object for the above algorithm. 
+iii) Create a table with the runtime values of the different variables and logical 
+expression of the above C++ program. 
+iv) Calculate the complexity of the algorithm. 
+[Menu Program]: Write a menu program to implement the above two topic. Declare the 
+array and the size of the array as the private members of the class. 
+
+********* Menu ******** 
+1. Create 
+2. Linear Search 
+3. Binary Search 
+4. Display 
+5. Exit 
+Enter your option[1-5]:
+
+
+Topic 3: [ Sparse Matrix] 
+i) Draw a flowchart to store a sparse matrix using 2-D arrays. 
+ii) Write a c++ program using class and object for the above algorithm. 
+N.B: i) Refer to the Lecture Notes Lect_CSE1201(Arrays).pdf 
+ ii) Write the report during the lab hour.

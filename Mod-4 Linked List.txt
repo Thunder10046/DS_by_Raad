@@ -1,0 +1,54 @@
+CSE 1202 (Data Structure Lab) 
+Module 4 [Linked List]: (for Week 4) 
+Topic 1: [Creating a Single Linked List] 
+i) Draw a flowchart create a linked list with 5 integer data. The new node addresses 
+and the x values are found in Table 1. Then fill up the following Table 2 for each 
+iteration of i. Also draw the linked list after each iteration of i showing all the 
+node nodes and pointers. 
+Topic 2: [Menu Program]: Write a menu program using C++ to automate the operations of 
+a single linked list with the following constraints: 
+i) Create menu creates a new link with specified number of nodes 
+ii) Insert menu inserts a new node in an existing linked list. Insertion should be done 
+after an existing node. 
+iii) Delete menu deletes a node from an existing linked list. Delete multiple nodes if 
+the specified data matches with multiple nodes. 
+iv) Update menu updates data element of a node. Update multiple nodes if 
+required. 
+v) Display menu displays all the node data of the existing linked list. 
+i x New Node Address 
+1 10 1120 
+2 30 1130 
+3 50 1240 
+4 25 1350 
+5 15 1650 
+Talbe 1: 
+i h q p p.data q.data 
+1 
+2 
+3 
+4 
+5 
+Talbe 2: 
+vi) Use the following classes nodes and linked list 
+class Node{ 
+ int data; 
+ Node *next; 
+};
+ class LinkedList{ 
+private: 
+ //declare data members if required 
+public: 
+void Create(){ 
+} 
+void Insert(){ 
+} 
+void Delete(){ 
+} 
+void Update(){ 
+} 
+void Display(){ 
+} 
+//Write more methods if required. 
+};
+Topic 3: Repeat Topic 2 using Circular linked list. 
+Topic 4: Repeat Topic 2 using Double Circular linked list.

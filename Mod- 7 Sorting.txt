@@ -1,0 +1,20 @@
+Topic 1: [Insertion Sort] 
+i) Draw flowcharts for insertion sort 
+ii) Sort the array ax[7]={10,78,32,90,20,19,25} using insertion sort algorithm. Write the 
+content of ax[] after each pass (iteration). 
+iii) Find the complexity of the algorithm 
+Topic 2: [Selection Sort] 
+i) Draw flowcharts for selection sort 
+ii) Sort the array ax[7]={10,78,32,90,20,19,25} using selection sort algorithm. Write 
+the content of ax[] after each pass (iteration). 
+iii) Find the complexity of the algorithm 
+Topic 3: [Quick Sort] 
+i) Draw flowcharts for Quick sort 
+ii) Sort the array ax[7]={10,78,32,90,20,19,25} using quick sort algorithm. Draw the 
+sequence of function calling diagram, QS(a,p,r). 
+iii) Find the complexity of the algorithm
+Topic 4: [Merge Sort] 
+i) Draw flowcharts for Merge sort 
+ii) Sort the array ax[7]={10,78,32,90,20,19,25} using merge sort algorithm. Draw the 
+sequence of function calling diagram. 
+iii) Find the complexity of the algorithm
